@@ -1,2 +1,2 @@
 # Naive-Bayes-Spam-Ham
-I implemented a Naive Bayes Classifier for emails to be Spam or Ham during my ML learning. It is based on Multinomial Naive Bayes and it helped me to understand the basics of ML.
+I implemented a Naive Bayes Classifier for emails to be Spam or Ham during my ML learning. It is based on Multinomial Naive Bayes and it helped me to understand the basics of ML. The dataset has been taken from Kaggle and it works on the idea of calculating the probability of each word in the email given that it appears in the normal email which are not spam , and using this probability we calculate the probability that the message is normal or spam given that a particular word appeared in it and then predict the result.
